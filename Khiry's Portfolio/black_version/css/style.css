@@ -1082,7 +1082,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_couter_wrapper{
     display: inline-block;
     width: 100%;
-	background-image:url(http://placehold.it/1920X600);
+	background-image:url(https://previews.123rf.com/images/sashkin7/sashkin71611/sashkin7161100010/66247397-machine-code-languages-on-colorful-elements-programming-concept.jpg);
 	background-position:center center;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -1143,28 +1143,28 @@ input:focus, textarea:focus, select:focus, button:focus {
 	text-align:center;
 }
 #circles-1{
-	background-image:url(http://placehold.it/200X200);
+	background-color: #202020; 
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-2{
-	background-image:url(http://placehold.it/200X200);
+	background-color: #202020; 
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-3{
-	background-image:url(http://placehold.it/200X200);
+	background-color: #202020; 
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-4{
-	background-image:url(http://placehold.it/200X200);
+	background-color: #202020; 
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
