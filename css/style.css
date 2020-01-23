@@ -358,28 +358,31 @@ input:focus, textarea:focus, select:focus, button:focus {
 	top:45px;
 	left:0px;
 	right:0px;
-	width:100px;
+    width:100px;
 }
 .prt_menu_wrapper a.prt_bottom{
 	bottom:45px;
 	left:0px;
 	right:0px;
     width:150px;
-    color: black;
+    color: white;
+    background-color:black;
 }
 .prt_menu_wrapper a.prt_left{
 	top:50%;
 	left:-15px;
 	transform: rotateZ(-90deg);
     margin-top:-15px;
-    color: black;
+    color: white;
+    background-color: black;
 }
 .prt_menu_wrapper a.prt_right{
 	top:50%;
 	right:0px;
 	transform: rotateZ(90deg);
     margin-top:-15px;
-    color: black;
+    color: white;
+    background-color: black;    
 }
 /*---------- About css Start -------*/
 .prt_about_wrapper{
